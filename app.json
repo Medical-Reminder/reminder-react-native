@@ -1,0 +1,12 @@
+{
+  "name": "reminder-react-native",
+  "displayName": "reminder-react-native",
+  "expo": {
+    "name": "reminder-react-native",
+    "slug": "reminder-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
